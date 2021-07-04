@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vet-clinic-schedule/static/css/main.0e5185ea.chunk.css",
+    "main.js": "/vet-clinic-schedule/static/js/main.42db629a.chunk.js",
+    "main.js.map": "/vet-clinic-schedule/static/js/main.42db629a.chunk.js.map",
+    "runtime-main.js": "/vet-clinic-schedule/static/js/runtime-main.8a13bf30.js",
+    "runtime-main.js.map": "/vet-clinic-schedule/static/js/runtime-main.8a13bf30.js.map",
+    "static/js/2.a07ce91e.chunk.js": "/vet-clinic-schedule/static/js/2.a07ce91e.chunk.js",
+    "static/js/2.a07ce91e.chunk.js.map": "/vet-clinic-schedule/static/js/2.a07ce91e.chunk.js.map",
+    "index.html": "/vet-clinic-schedule/index.html",
+    "static/css/main.0e5185ea.chunk.css.map": "/vet-clinic-schedule/static/css/main.0e5185ea.chunk.css.map",
+    "static/js/2.a07ce91e.chunk.js.LICENSE.txt": "/vet-clinic-schedule/static/js/2.a07ce91e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a13bf30.js",
+    "static/js/2.a07ce91e.chunk.js",
+    "static/css/main.0e5185ea.chunk.css",
+    "static/js/main.42db629a.chunk.js"
+  ]
+}
